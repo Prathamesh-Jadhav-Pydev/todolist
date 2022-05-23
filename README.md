@@ -1,4 +1,4 @@
-# Getting Started with Todo List App
+# Getting Started with Todo List App with React JS
 
 This project was bootstrapped with [Todo List App]
 
